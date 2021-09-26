@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 * Building a movie recommendation system using machine learning and artificial intelligence
-* Collaborative Filtering
+* Content Based Filtering
 * Cosine Similarity
 
 ## Dataset
